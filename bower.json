@@ -1,0 +1,22 @@
+{
+  "name": "tomatupackpu",
+  "description": "share packs papu",
+  "dependencies": {
+    "materialize": "~0.97.7",
+    "jquery": "~1.11.1"
+  },
+  "main": "",
+  "authors": [
+    "jsvelasquezv <juseve200@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/stipelson/tomatupackpu",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
